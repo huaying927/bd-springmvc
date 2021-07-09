@@ -1,5 +1,7 @@
 package com.delong.springmvc.annotation;
 
+import com.delong.springmvc.model.Address;
+import com.delong.springmvc.model.Employee;
 import com.delong.springmvc.model.User;
 import com.sun.istack.internal.NotNull;
 import org.springframework.stereotype.Controller;
